@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class D154 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-
 		int divisionNum = sc.nextInt();
 		int personNum = sc.nextInt();
 
