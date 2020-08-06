@@ -5,6 +5,12 @@ import java.util.Scanner;
 
 public class HitAndBlow20200802 {
 
+    /*
+     * specification d—l
+     * 1.create non-overlapping random number.
+     * 2.User input a number.
+     * 3.Judge hit and blow
+     */
     public static void main(String[] args) {
 	// 1.—”‚ğì¬‚µ‚Ä
 	int[] rand = randomNumberMake();
